@@ -2,3 +2,5 @@
 _____________
 
 KOVIDH KURRA - software developer.
+ I love Git  
+ 
